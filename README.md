@@ -1,2 +1,2 @@
-# felxbox
+# flexbox
 Learning Flexbox
